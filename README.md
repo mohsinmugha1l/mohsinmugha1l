@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native and flutter app development<br>📫 How to reach me: mohsinmughal1630@gmail.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
+🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native and flutter app development<br>📫 How to reach me: mohsinmughal1630@gmail.com, mohsin@unicodetech.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
 
 
 ## 🌐 Socials:
