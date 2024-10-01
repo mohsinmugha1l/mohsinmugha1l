@@ -13,7 +13,8 @@
 ![Mohsin-mw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)<br/>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=quote-for-the-day&bgColor=black&fontColor=green)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohsinmugha1l&icon=0&color=0)](https://visitcount.itsvg.in)
