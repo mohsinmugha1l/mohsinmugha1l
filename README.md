@@ -2,7 +2,7 @@
 ![Banner](https://github.com/user-attachments/assets/47edebd0-643c-4f1a-ba30-7f82a81a9531)
 
 # 💫 About Me:
-🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native, flutter app development, Astro, Wordpress, PHP, JavaScript, TypeScript and React.js<br>📫 How to reach me: mohsinmughal1630@gmail.com, mohsin@unicodetech.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
+🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native, flutter, Astro, Wordpress, PHP, JavaScript, TypeScript and React.js<br>📫 How to reach me: mohsinmughal1630@gmail.com, mohsin@unicodetech.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
 
 
 ## 🌐 Socials:
