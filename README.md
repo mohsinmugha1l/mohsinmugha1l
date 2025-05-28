@@ -1,6 +1,11 @@
 
 ![Banner](https://github.com/user-attachments/assets/47edebd0-643c-4f1a-ba30-7f82a81a9531)
 
+<p align="right">
+  <a href="https://github.com/mohsinmugha1l?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=mohsinmugha1l&label=Profile+views&color=0D75FF&style=flat" alt="Profile views" />
+  </a>
+</p>
 ![Counter](https://komarev.com/ghpvc/?username=mohsinmugha1l&label=Profile+views&color=0D75FF&style=flat)
 
 # 💫 About Me:
