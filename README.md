@@ -19,6 +19,7 @@
 # 📊 GitHub Stats:
 ![Mohsin Ali Stats](https://github-readme-stats.vercel.app/api?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
 ![Mohsin Ali Streaks](https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123)<br/>
+![Mohsin Ali Streaks](https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=light&random=123)<br/>
 ![Mohsin Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
