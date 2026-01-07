@@ -7,6 +7,7 @@
   </a>
 </p>
 
+# Hi, i'm Mohsin Ali Riaz. <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 # 💫 About Me:
 🔭 I’m currently working on app development, web development and backend.<br>🌱 I’m currently learning with help of codecademy.com<br>💬 Ask me about React native, android native, ios native, flutter, Astro, Wordpress, PHP, JavaScript, TypeScript and React.js<br>📫 How to reach me: mohsinmughal1630@gmail.com, mohsin@unicodetech.com<br>⚡ Fun fact: Love to play cricket, snooker, table tennis and cards
 
