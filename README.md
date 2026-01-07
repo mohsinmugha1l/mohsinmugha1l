@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Mohsin Ali Riaz. <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a> 
+# 👋 Hi, I'm Mohsin Ali Riaz. <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&vCenter=true&width=435&height=25&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 
 ![Banner](https://github.com/user-attachments/assets/47edebd0-643c-4f1a-ba30-7f82a81a9531)
 <p align="right"> <a href="https://github.com/mohsinmugha1l?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=mohsinmugha1l&label=Profile+views&color=0D75FF&style=flat" alt="Profile views" /> </a> </p>
@@ -21,8 +21,13 @@
 <br>
 
 # 📊 GitHub Stats:
+
+<p align="center" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" />
+</p>
+
+
 ![Mohsin Ali Stats](https://github-readme-stats.vercel.app/api?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
-![Mohsin Ali Streaks](https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123)<br/>
 ![Mohsin Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <br>
