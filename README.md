@@ -22,13 +22,8 @@
 
 # 📊 GitHub Stats:
 
-<p align="center" width="100%">
-  <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" />
-</p>
+<p align="center" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
 
-
-![Mohsin Ali Stats](https://github-readme-stats.vercel.app/api?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)<br/>
-![Mohsin Ali Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmugha1l&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <br>
 
