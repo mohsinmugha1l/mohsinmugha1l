@@ -22,15 +22,16 @@
 
 # 📊 GitHub Stats:
 
-<p align="center" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
+<p align="left" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
 
 
 <br>
 
-### ✍️ Random Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green)
+# ✍️ Random Dev Quote
+<p align="left">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=mohsinmugha1l&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
