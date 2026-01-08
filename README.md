@@ -21,16 +21,12 @@
 <br>
 
 # 📊 GitHub Stats:
-
-<p align="left" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
-
+<p align="center" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
 
 <br>
 
 # ✍️ Random Dev Quote
-<p align="left">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" />
-</p>
+<p align="center"> <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" /> </p>
 
 
 
