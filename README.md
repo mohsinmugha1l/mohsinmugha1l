@@ -26,7 +26,8 @@
 <br>
 
 # ✍️ Random Dev Quote
-<p align="center"> <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" /> </p>
+<p align="center"> <img width="589" height="214" alt="Screenshot 2026-01-08 at 7 44 36 PM" src="https://github.com/user-attachments/assets/33dc0732-878d-475a-a614-b2650d9580de" /> </p>
+
 
 
 
