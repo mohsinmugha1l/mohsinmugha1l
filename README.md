@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Mohsin Ali Riaz. <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&width=435&height=60&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+ 👋 Hi, I'm Mohsin Ali Riaz. <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EE3F24&width=435&height=60&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![Banner](https://github.com/user-attachments/assets/47edebd0-643c-4f1a-ba30-7f82a81a9531)
 <p align="right"> <a href="https://github.com/mohsinmugha1l?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=mohsinmugha1l&label=Profile+views&color=0D75FF&style=flat" alt="Profile views" /> </a> </p>
