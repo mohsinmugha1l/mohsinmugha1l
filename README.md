@@ -21,7 +21,7 @@
 <br>
 
 # 📊 GitHub Stats:
-<p align="center" width="100%"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=mohsinmugha1l&theme=dark&random=123" alt="Mohsin Ali Streaks" /> </p>
 
 <br>
 
