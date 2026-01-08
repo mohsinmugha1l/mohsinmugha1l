@@ -26,7 +26,7 @@
 <br>
 
 # ✍️ Random Dev Quote
-<p align="left"> <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" /> </p>
+<p align="center"> <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=zues&font=default&quoteType=random&bgColor=black&fontColor=green" alt="Quote" /> </p>
 
 
 
